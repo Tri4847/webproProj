@@ -8,4 +8,24 @@ a {
    font-size: 12px;
 }
 
+body {
+   font-family: Arial;
+   background-image: radial-gradient(white, lightgray);
+}
+
+h1 {
+   color: darkblue;
+   padding: 8px;
+   box-shadow: 5px 5px 6px gray;
+   border-radius: 5px;
+}
+
+p {
+   color: white;
+   width: 350px;
+   font-size: 16px;
+   padding: 10px;
+   background-image: linear-gradient(to bottom right, darkblue, skyblue);
+}
+
 /* TODO: Add styles here */
